@@ -3,7 +3,6 @@ module ExercismIO
     {
       :Core => 'core',
       :Static => 'static',
-      :Help => 'help',
       :Account => 'account',
       :Session => 'session',
       :User => 'user',

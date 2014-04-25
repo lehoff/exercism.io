@@ -10,7 +10,6 @@ module ExercismWeb
       use Rack::Flash
 
       helpers ExercismIO::Helpers::FuzzyTime
-      helpers ExercismIO::Helpers::Article
       helpers ExercismIO::Helpers::Markdown
       helpers WillPaginate::Sinatra::Helpers
       helpers Sinatra::SubmissionsHelper

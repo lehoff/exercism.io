@@ -32,7 +32,7 @@ as a git submodule in [exercism/x-api](https://github.com/exercism/x-api).
 In addition to making the exercises available via `x-api`, the following needs
 to be added:
 
-1. A help topic: `lib/app/articles/help/setup/$LANGUAGE.md`
+1. A help topic in the [documentation repository](https://github.com/exercism/docs).
 2. An entry in `lib/exercism/code.rb` to define the extension for that language.
 
 ## Adding an Exercise

@@ -4,7 +4,6 @@ module ExercismIO
       :URL => 'url',
       :Config => 'config',
       :Session => 'session',
-      :Article => 'article',
       :Component => 'component',
       :FuzzyTime => 'fuzzy_time',
       :Markdown => 'markdown'

@@ -19,7 +19,6 @@ module ExercismIO
     end
 
     use Routes::Static
-    use Routes::Help
     use Routes::Account
     use Routes::Session
     use Routes::Exercises
