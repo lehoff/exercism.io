@@ -13,9 +13,9 @@ $ brew install erlang
 
 ### On Linux
 
-Ubuntu: `sudo apt-get install erlang`
-Fedora 17+ (only tried on 20) and Fedora Rawhide: `sudo apt-get install erlang`
-Arch Linux: `sudo pacman -Sy erlang` 
+* Ubuntu: `sudo apt-get install erlang`
+* Fedora 17+ (only tried on 20) and Fedora Rawhide: `sudo apt-get install erlang`
+* Arch Linux: `sudo pacman -Sy erlang` 
 
 ### Installing from Source
 
