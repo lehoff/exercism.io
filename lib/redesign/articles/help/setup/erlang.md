@@ -5,6 +5,10 @@
 (https://www.erlang-solutions.com/downloads/download-erlang-otp) has downloads for
 many platforms.
 
+As we will be using Erlang 17 the ESL packages is often the best choice as they are
+always serving the latest version. For some of the Linux distributions the Erlang
+version may not be the latest.
+
 ### Homebrew for Mac OS X
 
 ```bash
